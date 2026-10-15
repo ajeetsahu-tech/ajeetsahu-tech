@@ -9,7 +9,7 @@
 </p>
 
 <!-- Introduction -->
-<h2 align="center">👋 About Me</h2>
+<h2 align="center" ☆>(●'◡'●)☆ About Me</h2>
 
 <p align="center">
   Hi! I'm <b>Ajeet Sahu</b>, a B.Tech Computer Science and Engineering student from India.
