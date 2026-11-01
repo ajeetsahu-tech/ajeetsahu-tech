@@ -67,7 +67,7 @@
 
 <h3 align="center">Currently Exploring</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-412981?style=for-the-badge" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge" alt="Large Language Models"/>
   <img src="https://img.shields.io/badge/RAG-1677FF?style=for-the-badge" alt="Retrieval Augmented Generation"/>
@@ -89,6 +89,9 @@
 <p align="center">
   <a href="https://github.com/ajeetsahu-tech/NYC-Airbnb-Room-Type-Prediction">
     <img src="https://img.shields.io/badge/Explore%20the%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project on GitHub"/>
+  </a>
+  <a href="https://nyc-airbnb-room-types-classifier-1.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Open live demo"/>
   </a>
 </p>
 
